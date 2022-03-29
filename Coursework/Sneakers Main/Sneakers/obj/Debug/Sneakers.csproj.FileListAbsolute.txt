@@ -1,0 +1,187 @@
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\Sneakers.exe.config
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\Sneakers.exe
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\Sneakers.pdb
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\MaterialDesignColors.dll
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\MaterialDesignColors.pdb
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Sneakers.csprojAssemblyReference.cache
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\MainWindow.g.cs
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\App.g.cs
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Sneakers_MarkupCompile.cache
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Sneakers_MarkupCompile.lref
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\App.baml
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\MainWindow.baml
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Sneakers.g.resources
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Sneakers.Properties.Resources.resources
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Sneakers.csproj.GenerateResource.cache
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Sneakers.csproj.CoreCompileInputs.cache
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Sneakers.csproj.CopyComplete
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Sneakers.exe
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Sneakers.pdb
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\EntityFramework.dll
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\EntityFramework.SqlServer.dll
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\System.Data.SQLite.dll
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\System.Data.SQLite.EF6.dll
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\System.Data.SQLite.Linq.dll
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\EntityFramework.xml
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\EntityFramework.SqlServer.xml
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\System.Data.SQLite.xml
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\AuthWindow.g.cs
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\AuthWindow.baml
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\UserPageWindow.g.cs
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\UserPageWindow.baml
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\MainWin.g.cs
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\MainWin.baml
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Admin.g.cs
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Admin.baml
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Catalog.g.cs
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\obj\Debug\Catalog.baml
+D:\КБиП\Курсовая C#\Sneakers\Sneakers\bin\Debug\SneakersBD.db
+D:\КБиП\Sneakers\Sneakers\obj\Debug\Admin.g.cs
+D:\КБиП\Sneakers\Sneakers\obj\Debug\AuthWindow.g.cs
+D:\КБиП\Sneakers\Sneakers\obj\Debug\Catalog.g.cs
+D:\КБиП\Sneakers\Sneakers\obj\Debug\MainWin.g.cs
+D:\КБиП\Sneakers\Sneakers\obj\Debug\MainWindow.g.cs
+D:\КБиП\Sneakers\Sneakers\obj\Debug\UserPageWindow.g.cs
+D:\КБиП\Sneakers\Sneakers\obj\Debug\App.g.cs
+D:\КБиП\Sneakers\Sneakers\obj\Debug\Sneakers_MarkupCompile.cache
+D:\КБиП\Sneakers\Sneakers\obj\Debug\Sneakers_MarkupCompile.lref
+D:\КБиП\Sneakers\Sneakers\obj\Debug\Sneakers.exe
+D:\КБиП\Sneakers\Sneakers\obj\Debug\Sneakers.pdb
+D:\КБиП\Sneakers\Sneakers\bin\Debug\SneakersBD.db
+D:\КБиП\Sneakers\Sneakers\bin\Debug\Sneakers.exe.config
+D:\КБиП\Sneakers\Sneakers\bin\Debug\Sneakers.exe
+D:\КБиП\Sneakers\Sneakers\bin\Debug\Sneakers.pdb
+D:\КБиП\Sneakers\Sneakers\bin\Debug\EntityFramework.dll
+D:\КБиП\Sneakers\Sneakers\bin\Debug\EntityFramework.SqlServer.dll
+D:\КБиП\Sneakers\Sneakers\bin\Debug\MaterialDesignColors.dll
+D:\КБиП\Sneakers\Sneakers\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\КБиП\Sneakers\Sneakers\bin\Debug\System.Data.SQLite.dll
+D:\КБиП\Sneakers\Sneakers\bin\Debug\System.Data.SQLite.EF6.dll
+D:\КБиП\Sneakers\Sneakers\bin\Debug\System.Data.SQLite.Linq.dll
+D:\КБиП\Sneakers\Sneakers\bin\Debug\EntityFramework.xml
+D:\КБиП\Sneakers\Sneakers\bin\Debug\EntityFramework.SqlServer.xml
+D:\КБиП\Sneakers\Sneakers\bin\Debug\MaterialDesignColors.pdb
+D:\КБиП\Sneakers\Sneakers\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\КБиП\Sneakers\Sneakers\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\КБиП\Sneakers\Sneakers\bin\Debug\System.Data.SQLite.xml
+D:\КБиП\Sneakers\Sneakers\obj\Debug\App.baml
+D:\КБиП\Sneakers\Sneakers\obj\Debug\Admin.baml
+D:\КБиП\Sneakers\Sneakers\obj\Debug\AuthWindow.baml
+D:\КБиП\Sneakers\Sneakers\obj\Debug\Catalog.baml
+D:\КБиП\Sneakers\Sneakers\obj\Debug\MainWin.baml
+D:\КБиП\Sneakers\Sneakers\obj\Debug\MainWindow.baml
+D:\КБиП\Sneakers\Sneakers\obj\Debug\UserPageWindow.baml
+D:\КБиП\Sneakers\Sneakers\obj\Debug\Sneakers.g.resources
+D:\КБиП\Sneakers\Sneakers\obj\Debug\Sneakers.Properties.Resources.resources
+D:\КБиП\Sneakers\Sneakers\obj\Debug\Sneakers.csproj.GenerateResource.cache
+D:\КБиП\Sneakers\Sneakers\obj\Debug\Sneakers.csproj.CoreCompileInputs.cache
+D:\КБиП\Sneakers\Sneakers\obj\Debug\Sneakers.csproj.CopyComplete
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\SneakersBD.db
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\Sneakers.exe.config
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\Sneakers.exe
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\Sneakers.pdb
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\EntityFramework.dll
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\EntityFramework.SqlServer.dll
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\MaterialDesignColors.dll
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\System.Data.SQLite.dll
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\System.Data.SQLite.EF6.dll
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\System.Data.SQLite.Linq.dll
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\EntityFramework.xml
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\EntityFramework.SqlServer.xml
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\MaterialDesignColors.pdb
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\КБиП\Sneakers cop\Sneakers\bin\Debug\System.Data.SQLite.xml
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Sneakers.csprojAssemblyReference.cache
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Admin.g.cs
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\AuthWindow.g.cs
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Catalog.g.cs
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\MainWin.g.cs
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\MainWindow.g.cs
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\UserPageWindow.g.cs
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\App.g.cs
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Sneakers_MarkupCompile.cache
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Sneakers_MarkupCompile.lref
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\App.baml
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Admin.baml
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\AuthWindow.baml
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Catalog.baml
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\MainWin.baml
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\MainWindow.baml
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\UserPageWindow.baml
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Sneakers.g.resources
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Sneakers.Properties.Resources.resources
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Sneakers.csproj.GenerateResource.cache
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Sneakers.csproj.CoreCompileInputs.cache
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Sneakers.csproj.CopyComplete
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Sneakers.exe
+D:\КБиП\Sneakers cop\Sneakers\obj\Debug\Sneakers.pdb
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\SneakersBD.db
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\Sneakers.exe.config
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\Sneakers.exe
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\Sneakers.pdb
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\EntityFramework.dll
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\EntityFramework.SqlServer.dll
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\MaterialDesignColors.dll
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\System.Data.SQLite.dll
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\System.Data.SQLite.EF6.dll
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\System.Data.SQLite.Linq.dll
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\EntityFramework.xml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\EntityFramework.SqlServer.xml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\MaterialDesignColors.pdb
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\bin\Debug\System.Data.SQLite.xml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Sneakers.csprojAssemblyReference.cache
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Admin.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\AuthWindow.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Catalog.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\MainWin.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\MainWindow.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\UserPageWindow.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\App.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Sneakers_MarkupCompile.cache
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Sneakers_MarkupCompile.lref
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\App.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Admin.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\AuthWindow.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Catalog.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\MainWin.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\MainWindow.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\UserPageWindow.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Sneakers.g.resources
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Sneakers.Properties.Resources.resources
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Sneakers.csproj.GenerateResource.cache
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Sneakers.csproj.CoreCompileInputs.cache
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Sneakers.csproj.CopyComplete
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Sneakers.exe
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\Sneakers.pdb
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\deeruptSize.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\deeruptSize.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\boostSize.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\nitejoggerSize.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\nmdSize.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\ozweegoSize.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\yung1Size.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\boostSize.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\nitejoggerSize.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\nmdSize.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\ozweegoSize.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\yung1Size.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\zakazDeerupt.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\zakazDeerupt.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\zakazNite.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\zakazNite.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\zakazBoost.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\zakazNMD.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\zakazozweego.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\zakazYung.g.cs
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\zakazBoost.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\zakazNMD.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\zakazozweego.baml
+D:\КБиП\Курсовая C#\Sneakers Main\Sneakers\obj\Debug\zakazYung.baml
